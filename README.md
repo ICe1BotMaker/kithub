@@ -1,5 +1,7 @@
 <div align="center">
-  <image src="https://ifh.cc/g/N9y4HY.webp">
+  <div style="width: 100%; height: 200px; overflow: hidden;">
+      <image src="https://ifh.cc/g/N9y4HY.webp">
+  </div>
   <h1>ICe1BotMaker / Kithub</h1>
   <h3><b>Description</b></h3>
   
